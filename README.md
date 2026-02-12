@@ -1,3 +1,12 @@
+> 📘 **Class 7 Reference**
+>  
+> This repository is a fork of Flexbox Froggy by Thomas Park.
+> Used during Class 7 to practice CSS Flexbox concepts.
+
+
+
+
+
 Flexbox Froggy
 =======
 
